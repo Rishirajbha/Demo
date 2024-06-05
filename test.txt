@@ -1,3 +1,4 @@
 Hi this is first commit to GitHub.
 
 hello i am rishi
+hi  i am sumit added some text.
